@@ -17,6 +17,6 @@ You can install the dependencies using pip:
 ```bash
 pip install opencv-python numpy
 ```
-
-
-
+Run the script:
+```bash
+python laser_pointer_detection.py
